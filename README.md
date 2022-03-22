@@ -2,4 +2,5 @@
 
 Used in teaching Git.
 We update first darft.
-This second update.
+This is second update.
+This is the third update.
